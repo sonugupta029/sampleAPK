@@ -1,7 +1,7 @@
 # Sample Apk Hello World
 This repo contains sample apk hello world for using with appium espresso
 
-# Sample capabilities to run appium espresso:
+# Desired capabilities to run appium espresso:
 {
   "platformName": "Android",
   "automationName": "Espresso",
